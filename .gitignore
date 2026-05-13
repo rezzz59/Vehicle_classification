@@ -1,0 +1,10 @@
+datasets/
+split_dataset/
+best_model.keras
+saved_model/
+tflite/
+tfjs_model/
+*.h5
+*.pkl
+*.npy
+__pycache__/
